@@ -34,8 +34,4 @@ def is_one_to_one_mappable(str1, str2):
             return("false")
     return ("true")
 
-print(is_one_to_one_mappable("abc", "bcd"))
-print(is_one_to_one_mappable("foo", "boo"))
-print(is_one_to_one_mappable("bar", "foo"))
-print(is_one_to_one_mappable("bar", "foo"))
   
